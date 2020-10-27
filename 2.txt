@@ -24,18 +24,7 @@
 
    cd  mkdir  rm  cat
    touch  grep  wc cp  mv
-   zip  tar  sudo
-
-   find
-          路径                 要查找的文件
-   find  /home/tarena  -name   demo09.py
-
-   cp
-
-   复制文件夹 -r
-   cp -r homework.txt  dir /home/tarena
-
-   通配符  [] 和 ？都只能代表一个字符
+字符
    rm review.[py][py]
 
    chmod
